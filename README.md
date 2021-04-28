@@ -1,7 +1,7 @@
 # Web_Scrapping-Twitterhandle
 This simple script helps to Grab the twitter handle using python.
 
-#Usage
+Usage
 Clone the repo 
 >git clone https://github.com/Geevarghese/Web_Scrapping-Twitterhandle.git
 >cd Web_Scrapping-Twitterhandle
