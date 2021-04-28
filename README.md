@@ -1,5 +1,8 @@
 # Web_Scrapping-Twitterhandle
-This simple script helps to Grab the twitter handle using python.
+
+This simple script helps to Grab the twitter handle corresponding to the college name mentioned  
+and fills up Corresponding to the next raw (B colum) in an Excel file. 
+This is autopopulated by the power of webscrpping  the SERP output.
 
 Usage
 
