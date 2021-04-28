@@ -23,4 +23,4 @@ Now we can run the script
 
 >python test.py
 
-We can see the twitter handles corresponding to the Name in the excel file will get automatically populated.. If its not available will alert N/A.
+We can see the twitter handles corresponding to the Name in the excel file will get automatically populated.. If its not available will be showing as N/A.
